@@ -1,3 +1,10 @@
+# Community Updates
+
+This repo contains not-yet-official pull requests from the [community](https://github.com/FrozenNode/Laravel-Administrator/pulls "community")
+
+- [#973](https://github.com/FrozenNode/Laravel-Administrator/pull/973 "#973") Update settings.php for `Request::url()` instead of using `url()`
+- [#1023](https://github.com/FrozenNode/Laravel-Administrator/pull/1023 "#1023") Allow for arbitrary routes in menus
+
 # Laravel Administrator
 
 Administrator is an administrative interface builder for [Laravel](http://laravel.com). With Administrator you can visually manage your Eloquent models and their relations, and also create stand-alone settings pages for storing site data and performing site tasks.
